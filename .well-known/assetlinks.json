@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.fastidious_palmier_7f1c85.twa",
+        "sha256_cert_fingerprints": ["8F:BD:2F:31:32:4A:F6:85:EB:9E:2D:CA:93:B4:D2:DF:5D:80:C6:0B:A9:CB:32:6C:BF:07:CC:8C:88:E1:81:DB"]
+      }
+    }]
